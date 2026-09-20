@@ -65,7 +65,7 @@ The dashboard provides a visual way to explore relationships between customer de
 
 ## Project Files
 
-- [Bike Sales Dashboard](Bike_Sales_Dashboard.xlsx) — Excel workbook containing the interactive dashboard and supporting analysis.
+- [Bike Sales Dashboard](Bike%20Sales%20Dashboard.xlsx) — Excel workbook containing the interactive dashboard and supporting analysis.
 
 ## Key Takeaways
 
