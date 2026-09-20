@@ -8,7 +8,7 @@ The dashboard uses interactive slicers to allow users to explore different custo
 
 ## Dashboard Preview
 
-![Bike Sales Dashboard](images/bike-sales-dashboard.png)
+Bike Dashboard Image.PNG
 
 ## Dashboard Features
 
